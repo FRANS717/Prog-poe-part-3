@@ -113,7 +113,7 @@ CyberShieldChatbot
 1. Clone the repository.
 
 ```
-git clone https://github.com/YourUsername/CyberShieldChatbot.git
+git clone https://github.com/FRANS717/Prog-poe-part-3.git
 ```
 
 2. Open the solution in Visual Studio.
